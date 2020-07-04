@@ -1,0 +1,9 @@
+2017/05/14-19:56:59.758622 7fffc5ca03c0 Recovering log #41
+2017/05/14-19:57:00.014820 7fffc5ca03c0 Level-0 table #44: started
+2017/05/14-19:57:00.139359 7fffc5ca03c0 Level-0 table #44: 1485565 bytes OK
+2017/05/14-19:57:00.139677 7fffc5ca03c0 Recovering log #43
+2017/05/14-19:57:00.144635 7fffc5ca03c0 Level-0 table #45: started
+2017/05/14-19:57:00.172980 7fffc5ca03c0 Level-0 table #45: 10431 bytes OK
+2017/05/14-19:57:00.222402 7fffc5ca03c0 Delete type=0 #41
+2017/05/14-19:57:00.226871 7fffc5ca03c0 Delete type=0 #43
+2017/05/14-19:57:00.227051 7fffc5ca03c0 Delete type=3 #2
